@@ -19,11 +19,8 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Setup & Installation
 
-1. Clone the Repository
-   git clone <your-repository-url>
-   cd task_manager_app
-2. Install Dependencies
-   flutter pub get
+1. Clone the Repository : git clone <your-repository-url>   >>>>  cd task_manager_app
+2. Install Dependencies : flutter pub get
 3. Update Back4App Keys : In lib/services/parse_service.dart >> Replace the placeholders with your Application ID, Client Key, and Server URL from Back4App.
 4. Run the App  : flutter run
 
